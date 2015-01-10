@@ -1,4 +1,4 @@
-
+//This is the test for lukas' change
 #define RED_PIN     9    //define the RGB pin connect to the Arduino
 #define BLUE_PIN    10
 #define GREEN_PIN   11
